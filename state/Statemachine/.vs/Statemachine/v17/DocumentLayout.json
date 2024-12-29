@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arina\\Statemachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|C:\\Users\\Arina\\Statemachine\\assets\\scripts\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|C:\\Users\\Arina\\Statemachine\\assets\\scripts\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|C:\\Users\\Arina\\Statemachine\\assets\\scripts\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|C:\\Users\\Arina\\Statemachine\\assets\\scripts\\highlightstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\highlightstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|C:\\Users\\Arina\\Statemachine\\assets\\scripts\\transparencystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transparencystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|C:\\Users\\Arina\\Statemachine\\assets\\scripts\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|C:\\Users\\Arina\\Statemachine\\assets\\scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|C:\\Users\\Arina\\Statemachine\\assets\\scripts\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|C:\\Users\\Arina\\Statemachine\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|c:\\users\\arina\\statemachine\\assets\\scripts\\pausestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|c:\\users\\arina\\statemachine\\assets\\scripts\\finalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|C:\\Users\\Arina\\Statemachine\\assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|C:\\Users\\Arina\\Statemachine\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBEB92-DC16-D582-C727-32D72F48485D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinalState.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\FinalState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinalState.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\FinalState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinalState.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:23:36.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PauseState.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\PauseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseState.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\PauseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:22:34.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\GameState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:21:10.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bootstrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\Bootstrapper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bootstrapper.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\Bootstrapper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bootstrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:19:25.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerCombat.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\PlayerCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCombat.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\PlayerCombat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCombat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:18:36.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\StateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:17:53.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransparencyState.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\TransparencyState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TransparencyState.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\TransparencyState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TransparencyState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:17:07.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HighlightState.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\HighlightState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HighlightState.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\HighlightState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HighlightState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:16:28.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackState.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\AttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:14:54.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\State.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\State.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\State.cs",
+              "RelativeToolTip": "Assets\\Scripts\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:13:44.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\HUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUD.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\HUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:12:35.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:11:27.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInput.cs",
+              "ToolTip": "C:\\Users\\Arina\\Statemachine\\Assets\\Scripts\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:10:26.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
